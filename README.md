@@ -1,2 +1,4 @@
 # Logic_circuit_design_LAB_S3
 Verilog Experiments
+
+This Repo contains Verilog experments and the outputs for LAB works 

@@ -1,4 +1,4 @@
-// Code your design here
+// VERILOG MODULE FOR LOGIC GATES
 module logic_gates(a,b,c,yor,yand,ynand,yxor,ynot,ynor);
   input a, b, c;
   output yor, yand, ynand, yxor, ynot, ynor;
@@ -13,9 +13,7 @@ endmodule
 
 
 
-
-// Code your testbench here
-// or browse Examples
+//  TEST BENCH
 `timescale 1ns/1ps
 module testbench;
   reg a, b, c;

@@ -1,0 +1,17 @@
+[2025-09-02 19:02:40 UTC] iverilog '-Wall' '-g2012' design.sv testbench.sv  && unbuffer vvp a.out  
+warning: Some design elements have no explicit time unit and/or
+       : time precision. This may cause confusing timing results.
+       : Affected design elements are:
+       :   -- module logic_gates declared here: design.sv:2
+VCD info: dumpfile waves.vcd opened for output.
+T=0	a=0	b=0	c=0	OR=0	AND=0	NAND=1	XOR=0	NOT=1	NOR=1
+T=10000	a=0	b=0	c=1	OR=0	AND=0	NAND=1	XOR=0	NOT=0	NOR=1
+T=15000	a=0	b=0	c=0	OR=0	AND=0	NAND=1	XOR=0	NOT=1	NOR=1
+T=25000	a=0	b=1	c=0	OR=1	AND=0	NAND=1	XOR=1	NOT=1	NOR=0
+T=30000	a=1	b=0	c=0	OR=1	AND=0	NAND=1	XOR=1	NOT=1	NOR=0
+T=35000	a=1	b=1	c=0	OR=1	AND=1	NAND=0	XOR=0	NOT=1	NOR=0
+testbench.sv:34: $finish called at 45000 (1ps)
+Finding VCD file...
+./waves.vcd
+[2025-09-02 19:02:40 UTC] Opening EPWave...
+Done

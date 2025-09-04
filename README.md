@@ -9,3 +9,14 @@ EDA TOOL --- > EDA PLAYGROUND --- > ICARUS VERILOG <br>
 
 WAVEFORM GENERATED USING  --- > EP WAVE
 ---------------------------------------
+
+
+<br>
+
+EXPERIMENT - 1
+--------------
+LOGIC GATES 
+
+EXPERIMENT - 2
+--------------
+ADDERS

@@ -28,3 +28,7 @@ ADDERS
 EXPERIMENT - 3
 --------------
 MUX AND DEMUX
+
+EXPERIMENT - 4
+--------------
+FLIP FLOPS

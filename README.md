@@ -3,6 +3,10 @@ Verilog Experiments
 
 This Repo contains Verilog experments and the outputs for LAB works 
 
+NAME : RAJKRISHNA T R
+ROLL NO : 59
+----------------------
+
 
 EDA TOOL --- > EDA PLAYGROUND --- > ICARUS VERILOG <br>
 --------------------------------------------------

@@ -1,0 +1,17 @@
+       :   -- module JK_FF declared here: design.sv:2
+VCD info: dumpfile waveform.vcd opened for output.
+time=0	,J=0	,K=0	,Q=x	,Qbar=x	,rst=0
+time=5	,J=0	,K=0	,Q=0	,Qbar=1	,rst=1
+time=10	,J=0	,K=0	,Q=0	,Qbar=1	,rst=0
+time=22	,J=1	,K=0	,Q=0	,Qbar=1	,rst=0
+time=25	,J=1	,K=0	,Q=1	,Qbar=0	,rst=0
+time=32	,J=0	,K=1	,Q=1	,Qbar=0	,rst=0
+time=35	,J=0	,K=1	,Q=0	,Qbar=1	,rst=0
+time=42	,J=0	,K=0	,Q=0	,Qbar=1	,rst=0
+time=52	,J=1	,K=1	,Q=0	,Qbar=1	,rst=0
+time=55	,J=1	,K=1	,Q=1	,Qbar=0	,rst=0
+testbench.sv:60: $finish called at 60000 (1ps)
+Finding VCD file...
+./waveform.vcd
+[2025-09-04 16:24:15 UTC] Opening EPWave...
+Done

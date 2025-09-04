@@ -1,0 +1,10 @@
+[2025-09-04 06:33:23 UTC] iverilog '-Wall' '-g2012' design.sv testbench.sv  && unbuffer vvp a.out  
+VCD info: dumpfile waves.vcd opened for output.
+time=0	a=0	b=0	s=0	cout=0
+time=10	a=0	b=1	s=1	cout=0
+time=15	a=1	b=0	s=1	cout=0
+time=20	a=1	b=1	s=0	cout=1
+testbench.sv:35: $finish called at 100 (1s)
+Finding VCD file...
+./waves.vcd
+[2025-09-04 06:33:24 UTC] Opening EPWave...

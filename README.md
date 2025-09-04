@@ -3,7 +3,7 @@ Verilog Experiments
 
 This Repo contains Verilog experments and the outputs for LAB works 
 
-NAME : RAJKRISHNA T R
+NAME : RAJKRISHNA T R <br>
 ROLL NO : 59
 ----------------------
 

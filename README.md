@@ -24,3 +24,7 @@ LOGIC GATES
 EXPERIMENT - 2
 --------------
 ADDERS
+
+EXPERIMENT - 3
+--------------
+MUX AND DEMUX

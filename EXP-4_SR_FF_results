@@ -1,0 +1,23 @@
+VCD info: dumpfile waveform.vcd opened for output.
+time=0	,S=0	,R=0	,Q=x	,Qbar=x	,clk=0
+time=5	,S=0	,R=0	,Q=x	,Qbar=x	,clk=1
+time=10	,S=0	,R=0	,Q=x	,Qbar=x	,clk=0
+time=15	,S=0	,R=0	,Q=x	,Qbar=x	,clk=1
+time=20	,S=0	,R=0	,Q=x	,Qbar=x	,clk=0
+time=21	,S=1	,R=0	,Q=x	,Qbar=x	,clk=0
+time=25	,S=1	,R=0	,Q=1	,Qbar=0	,clk=1
+time=30	,S=1	,R=0	,Q=1	,Qbar=0	,clk=0
+time=31	,S=0	,R=1	,Q=1	,Qbar=0	,clk=0
+time=35	,S=0	,R=1	,Q=0	,Qbar=1	,clk=1
+time=40	,S=0	,R=1	,Q=0	,Qbar=1	,clk=0
+time=41	,S=0	,R=0	,Q=0	,Qbar=1	,clk=0
+time=45	,S=0	,R=0	,Q=0	,Qbar=1	,clk=1
+time=50	,S=0	,R=0	,Q=0	,Qbar=1	,clk=0
+time=51	,S=1	,R=1	,Q=0	,Qbar=1	,clk=0
+time=55	,S=1	,R=1	,Q=1	,Qbar=0	,clk=1
+testbench.sv:56: $finish called at 60000 (1ps)
+time=60	,S=1	,R=1	,Q=1	,Qbar=0	,clk=0
+Finding VCD file...
+./waveform.vcd
+[2025-09-04 16:03:22 UTC] Opening EPWave...
+Done

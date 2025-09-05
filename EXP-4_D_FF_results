@@ -1,0 +1,61 @@
+VCD info: dumpfile waveform.vcd opened for output.
+Time =0	 D=0	PRE=0	CLR=0	CLK=0	Q=x	Qbar=x	
+Time =10	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =20	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =30	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =40	 D=0	PRE=1	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =50	 D=0	PRE=1	CLR=0	CLK=1	Q=1	Qbar=0	
+Time =55	 D=0	PRE=0	CLR=0	CLK=1	Q=1	Qbar=0	
+Time =60	 D=0	PRE=0	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =70	 D=1	PRE=0	CLR=0	CLK=1	Q=1	Qbar=0	
+Time =80	 D=1	PRE=0	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =85	 D=1	PRE=0	CLR=1	CLK=0	Q=0	Qbar=1	
+Time =90	 D=1	PRE=0	CLR=1	CLK=1	Q=0	Qbar=1	
+Time =100	 D=1	PRE=0	CLR=1	CLK=0	Q=0	Qbar=1	
+Time =110	 D=1	PRE=0	CLR=1	CLK=1	Q=0	Qbar=1	
+Time =115	 D=1	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =120	 D=1	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =130	 D=1	PRE=0	CLR=0	CLK=1	Q=1	Qbar=0	
+Time =140	 D=1	PRE=0	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =145	 D=0	PRE=0	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =150	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =160	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =170	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =180	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =190	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =200	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =210	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =220	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =230	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =240	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =250	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =260	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =270	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =280	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =290	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =300	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =310	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =320	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =330	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =340	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =350	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =360	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =370	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =380	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =390	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =400	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =410	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =420	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =430	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =440	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =450	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =460	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =470	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =480	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =490	 D=0	PRE=0	CLR=0	CLK=1	Q=0	Qbar=1	
+testbench.sv:32: $finish called at 500000 (1ps)
+Time =500	 D=0	PRE=0	CLR=0	CLK=0	Q=0	Qbar=1	
+Finding VCD file...
+./waveform.vcd
+[2025-09-05 18:37:16 UTC] Opening EPWave...
+Done

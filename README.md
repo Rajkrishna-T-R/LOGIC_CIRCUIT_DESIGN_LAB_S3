@@ -31,5 +31,5 @@ MUX AND DEMUX
 
 EXPERIMENT - 4
 --------------
-FLIP FLOPS SR,JK,D,T
+FLIP FLOPS SR,JK,D,T<br>
 COUNTERS  Decade, Johnson and Ring

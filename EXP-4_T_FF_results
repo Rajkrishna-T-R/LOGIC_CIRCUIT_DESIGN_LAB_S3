@@ -19,43 +19,13 @@ Time =130	 T=1	CLR=0	CLK=1	Q=1	Qbar=0
 Time =140	 T=1	CLR=0	CLK=0	Q=1	Qbar=0	
 Time =145	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
 Time =150	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =160	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =170	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =180	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =190	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =200	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =210	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =220	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =230	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =240	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =250	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =260	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =270	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =280	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =290	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =300	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =310	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =320	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =330	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =340	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =350	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =360	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =370	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =380	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =390	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =400	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =410	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =420	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =430	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =440	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =450	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =460	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =470	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-Time =480	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
-Time =490	 T=0	CLR=0	CLK=1	Q=1	Qbar=0	
-testbench.sv:33: $finish called at 500000 (1ps)
-Time =500	 T=0	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =160	 T=1	CLR=0	CLK=0	Q=1	Qbar=0	
+Time =170	 T=1	CLR=0	CLK=1	Q=0	Qbar=1	
+Time =180	 T=1	CLR=0	CLK=0	Q=0	Qbar=1	
+Time =190	 T=1	CLR=0	CLK=1	Q=1	Qbar=0	
+testbench.sv:35: $finish called at 200000 (1ps)
+Time =200	 T=1	CLR=0	CLK=0	Q=1	Qbar=0	
 Finding VCD file...
 ./waveform.vcd
-[2025-09-05 18:47:49 UTC] Opening EPWave...
+[2025-09-05 18:51:10 UTC] Opening EPWave...
 Done

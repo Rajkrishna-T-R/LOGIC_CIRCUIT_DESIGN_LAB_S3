@@ -1,0 +1,29 @@
+VCD info: dumpfile dump.vcd opened for output.
+VCD warning: testbench.sv:53: $dumpfile called after $dumpvars started,
+                              using existing file (dump.vcd).
+time=0	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=x	,Qbar=x	,clk=0
+time=5	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=x	,Qbar=x	,clk=1
+time=10	,J=0	,K=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=15	,J=0	,K=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=20	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=25	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=30	,J=0	,K=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=0
+time=35	,J=0	,K=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=1
+time=40	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=45	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=50	,J=1	,K=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=55	,J=1	,K=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=60	,J=0	,K=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=65	,J=0	,K=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=70	,J=1	,K=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=75	,J=1	,K=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=1	,clk=1
+time=80	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=85	,J=0	,K=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=90	,J=1	,K=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=95	,J=1	,K=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=1	,clk=1
+testbench.sv:52: $finish called at 100000 (1ps)
+time=100	,J=1	,K=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+Finding VCD file...
+./dump.vcd
+[2025-09-07 13:51:32 UTC] Opening EPWave...
+Done

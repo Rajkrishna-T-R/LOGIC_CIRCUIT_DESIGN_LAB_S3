@@ -36,4 +36,4 @@ COUNTERS  Decade, Johnson and Ring
 
 EXPERIMENT - 5
 --------------
-MUX8to1 gate_level
+MUX8to1 gate_level & Logic expression realization

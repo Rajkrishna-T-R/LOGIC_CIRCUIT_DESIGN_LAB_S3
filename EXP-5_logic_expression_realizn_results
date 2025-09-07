@@ -1,0 +1,23 @@
+       :   -- module MUX_8to1 declared here: design.sv:2
+VCD info: dumpfile waves.vcd opened for output.
+time=0 	 P=0 	 Q=0 	 R=0 	 S=0 	  Y=0
+time=20 	 P=0 	 Q=0 	 R=0 	 S=1 	  Y=1
+time=30 	 P=0 	 Q=0 	 R=1 	 S=0 	  Y=0
+time=40 	 P=0 	 Q=0 	 R=1 	 S=1 	  Y=1
+time=50 	 P=0 	 Q=1 	 R=0 	 S=0 	  Y=0
+time=60 	 P=0 	 Q=1 	 R=0 	 S=1 	  Y=0
+time=70 	 P=0 	 Q=1 	 R=1 	 S=0 	  Y=1
+time=80 	 P=0 	 Q=1 	 R=1 	 S=1 	  Y=0
+time=90 	 P=1 	 Q=0 	 R=0 	 S=0 	  Y=1
+time=100 	 P=1 	 Q=0 	 R=0 	 S=1 	  Y=0
+time=110 	 P=1 	 Q=0 	 R=1 	 S=0 	  Y=1
+time=120 	 P=1 	 Q=0 	 R=1 	 S=1 	  Y=1
+time=130 	 P=1 	 Q=1 	 R=0 	 S=0 	  Y=0
+time=140 	 P=1 	 Q=1 	 R=0 	 S=1 	  Y=0
+time=150 	 P=1 	 Q=1 	 R=1 	 S=0 	  Y=1
+time=160 	 P=1 	 Q=1 	 R=1 	 S=1 	  Y=0
+testbench.sv:71: $finish called at 600000 (1ps)
+Finding VCD file...
+./waves.vcd
+[2025-09-07 10:35:29 UTC] Opening EPWave...
+Done

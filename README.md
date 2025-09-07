@@ -27,9 +27,13 @@ ADDERS
 
 EXPERIMENT - 3
 --------------
-MUX AND DEMUX
+MUX4to1 AND DEMUX1to4
 
 EXPERIMENT - 4
 --------------
 FLIP FLOPS SR,JK,D,T<br>
 COUNTERS  Decade, Johnson and Ring
+
+EXPERIMENT - 5
+--------------
+MUX8to1 gate_level

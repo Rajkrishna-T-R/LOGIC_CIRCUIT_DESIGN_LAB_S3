@@ -37,3 +37,7 @@ COUNTERS  Decade, Johnson and Ring
 EXPERIMENT - 5
 --------------
 MUX8to1 gate_level & Logic expression realization
+
+EXPERIMENT - 6
+--------------
+FLIP FLOPS GATE LEVEL AND INTERCONVERSIONS

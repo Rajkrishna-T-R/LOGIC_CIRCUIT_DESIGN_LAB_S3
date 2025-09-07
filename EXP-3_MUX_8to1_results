@@ -1,19 +1,19 @@
-[2025-09-04 09:12:32 UTC] iverilog '-Wall' '-g2012' design.sv testbench.sv  && unbuffer vvp a.out  
+[2025-09-07 09:50:02 UTC] iverilog '-Wall' '-g2012' design.sv testbench.sv  && unbuffer vvp a.out  
 warning: Some design elements have no explicit time unit and/or
        : time precision. This may cause confusing timing results.
        : Affected design elements are:
        :   -- module MUX_8to1 declared here: design.sv:2
 VCD info: dumpfile waves.vcd opened for output.
-time=0	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=000	Y=0
-time=5	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=001	Y=1
-time=10	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=010	Y=0
-time=15	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=011	Y=1
-time=20	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=100	Y=0
-time=25	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=101	Y=1
-time=30	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=110	Y=0
-time=35	A=0	B=1	C=0	D=1	E=0	F=1	G=0	H=1	S=111	Y=1
-testbench.sv:61: $finish called at 500000 (1ps)
+time=0	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=0	S2=0	S3=0	Y=0
+time=5	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=1	S2=0	S3=0	Y=1
+time=10	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=0	S2=1	S3=0	Y=0
+time=15	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=1	S2=1	S3=0	Y=1
+time=20	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=0	S2=0	S3=1	Y=0
+time=25	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=1	S2=0	S3=1	Y=0
+time=30	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=0	S2=1	S3=1	Y=1
+time=35	A=0	B=1	C=0	D=1	E=0	F=0	G=1	H=1	S1=1	S2=1	S3=1	Y=1
+testbench.sv:63: $finish called at 500000 (1ps)
 Finding VCD file...
 ./waves.vcd
-[2025-09-04 09:12:32 UTC] Opening EPWave...
+[2025-09-07 09:50:03 UTC] Opening EPWave...
 Done

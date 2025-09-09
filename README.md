@@ -19,11 +19,11 @@ WAVEFORM GENERATED USING  --- > EP WAVE
 
 EXPERIMENT - 1
 --------------
-LOGIC GATES 
+Logic Gates 
 
 EXPERIMENT - 2
 --------------
-ADDERS
+Full and Half Adders
 
 EXPERIMENT - 3
 --------------

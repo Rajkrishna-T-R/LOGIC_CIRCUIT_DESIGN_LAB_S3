@@ -44,4 +44,4 @@ Flip flops gate level design and interconversions
 
 EXPERIMENT - 7
 --------------
-Ripple and Synchronous counters using T flipflops
+4 bit Ripple and Synchronous counters using T flipflops

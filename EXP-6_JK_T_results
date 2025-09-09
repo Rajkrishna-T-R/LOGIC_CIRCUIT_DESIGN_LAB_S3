@@ -1,0 +1,43 @@
+time=0	,T=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=0
+time=3	,T=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=1
+time=6	,T=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=0
+time=9	,T=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=1
+time=10	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=12	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=15	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=18	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=20	,T=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=21	,T=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=24	,T=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=27	,T=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=30	,T=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=33	,T=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=36	,T=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=39	,T=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=40	,T=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=42	,T=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=45	,T=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=48	,T=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=50	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=51	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=54	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=57	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=60	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=63	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=66	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=69	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=72	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=75	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=78	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=81	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=84	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=87	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=90	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=93	,T=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=96	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=99	,T=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+testbench.sv:54: $finish called at 100000 (1ps)
+Finding VCD file...
+./dump.vcd
+[2025-09-09 10:07:11 UTC] Opening EPWave...
+Done

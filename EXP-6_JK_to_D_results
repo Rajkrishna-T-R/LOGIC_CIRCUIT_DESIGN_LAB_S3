@@ -1,0 +1,41 @@
+time=0	,D=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=0
+time=3	,D=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=1
+time=6	,D=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=0
+time=9	,D=0	,pre_bar=1,clr_bar=0,Q=0	,Qbar=1	,clk=1
+time=10	,D=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=12	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=15	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=18	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=20	,D=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=21	,D=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=24	,D=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=27	,D=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=30	,D=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=33	,D=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=36	,D=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=39	,D=0	,pre_bar=0,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=40	,D=0	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=42	,D=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=45	,D=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=48	,D=0	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=50	,D=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=0
+time=51	,D=1	,pre_bar=1,clr_bar=1,Q=0	,Qbar=1	,clk=1
+time=54	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=57	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=60	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=63	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=66	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=69	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=72	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=75	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=78	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=81	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=84	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=87	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=90	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=93	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+time=96	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=0
+time=99	,D=1	,pre_bar=1,clr_bar=1,Q=1	,Qbar=0	,clk=1
+testbench.sv:54: $finish called at 100000 (1ps)
+Finding VCD file...
+./dump.vcd

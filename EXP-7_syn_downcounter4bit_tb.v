@@ -6,7 +6,7 @@ module testbench;
   
   wire Q0,Q1,Q2,Q3,Q0_bar,Q1_bar,Q2_bar,Q3_bar;
   
-  upcounter_4_bit uut ( .clk(CLK),
+  downcounter_4_bit uut ( .clk(CLK),
                        .pre_bar(pre_bar),
                        .clr_bar(clr_bar),
                        .Q0(Q0),

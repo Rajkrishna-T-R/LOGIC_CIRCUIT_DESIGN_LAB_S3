@@ -40,4 +40,8 @@ MUX8to1 gate_level & Logic expression realization
 
 EXPERIMENT - 6
 --------------
-FLIP FLOPS GATE LEVEL AND INTERCONVERSIONS
+Flip flops gate level design and interconversions
+
+EXPERIMENT - 7
+--------------
+Ripple and Synchronous counters using T flipflops
